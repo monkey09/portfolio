@@ -39,4 +39,8 @@ section {
 section .v-card {
   background-color: inherit;
 }
+section a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
 </style>

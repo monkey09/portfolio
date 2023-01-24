@@ -6,7 +6,7 @@ export default defineNuxtConfig({
       title: 'Monkey',
       viewport: 'width=device-width, initial-scale=1',
       link: [
-        { rel: 'icon', type: 'image/svg', href: '_nuxt/monkey.svg' }
+        { rel: 'icon', type: 'image/svg', href: '_nuxt/assets/img/monkey.svg' }
       ]
     }
   },

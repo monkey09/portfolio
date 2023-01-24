@@ -211,4 +211,8 @@ section .v-card {
 .v-card-text {
   padding-bottom: 0px;
 }
+section a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
 </style>
