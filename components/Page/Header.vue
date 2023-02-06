@@ -19,7 +19,7 @@ const isActive = ref(false)
             <v-card class="elevation-0 text-center">
               <v-card-text><LogoMonkey /></v-card-text>
               <v-card-text><div class="text-h4 text-sm-h2">Welcome!</div></v-card-text>
-              <v-card-text class="font-weight-light">I'm a passionate and experienced full-stack web developer with a strong background in creating custom websites and applications.</v-card-text>
+              <v-card-text class="font-weight-light">I'm ahmad hashim a full-stack web developer with a strong background in creating custom websites and applications.</v-card-text>
               <v-card-actions>
                 <NuxtLink to="#breaf" class="mx-auto">
                   <v-btn class="bg-primary text-white">Read More</v-btn>

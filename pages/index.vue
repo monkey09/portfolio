@@ -1,7 +1,7 @@
 <template>
   <v-main>
     <PageHeader id="home" />
-    <PageTitle id="breaf" title="Breaf" text="I have extensive experience in designing and developing responsive websites that look great on any device." son0="#F4F8FA" son1="#E9F3F8" />
+    <PageTitle id="aboutme" title="About Me" text="I have extensive experience in designing and developing responsive websites that look great on any device." son0="#F4F8FA" son1="#E9F3F8" />
     <PageBreaf />
     <PageTitle id="services" title="Services" text="I offer developing responsive websites that look great on any device." son0="#E9F3F8" son1="#F4F8FA" />
     <PageServices />
@@ -13,7 +13,7 @@
     <PageNews />
     <PageTitle id="whyme" title="Why Me" text="I'm confident that I can create something that meets your needs and value your business." son0="#E9F3F8" son1="#F4F8FA" />
     <PageFeatures />
-    <PageTitle id="follow" title="Follow" text="If you have any questions or would like to discuss a project, please don't hesitate to contact me." son0="#F4F8FA" son1="#E9F3F8" />
+    <PageTitle id="thankyou" title="Thank You" text="If you have any questions or would like to discuss a project, please don't hesitate to contact me." son0="#F4F8FA" son1="#E9F3F8" />
     <PageBottom />
   </v-main>
 </template>

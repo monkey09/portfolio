@@ -7,8 +7,8 @@ const links = ref([
     value: '#home'
   },
   {
-    title: 'Breaf',
-    value: '#breaf'
+    title: 'About Me',
+    value: '#aboutme'
   },
   {
     title: 'Services',
@@ -31,8 +31,8 @@ const links = ref([
     value: '#whyme'
   },
   {
-    title: 'Follow',
-    value: '#follow'
+    title: 'Thank You',
+    value: '#thankyou'
   },
 ])
 </script>
